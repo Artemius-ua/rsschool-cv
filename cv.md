@@ -48,3 +48,21 @@ function checkAge(age) {
 * __Wyzsza szkola logistyki (Master degree)__
 
    Supply chain project manager
+
+## **Work experience**
+---
+* __MMM express__ 
+  
+  Logistic coordinator
+
+* __Volkswagen__
+  
+  Intern
+
+* __Fresh Logistics(Raben group)__
+
+  Intern
+
+* __Mahle Behr__
+
+  Intern
