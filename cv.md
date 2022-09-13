@@ -16,6 +16,21 @@
 * GitHub
 * Figma
 
+### **Code examples**
+
+```
+function checkAge(age) {
+  let message;
+
+  if (age >= 18) { 
+    message = 'You are an adult';
+  } else {
+    message = 'You are a minor';
+  }
+
+  return message;
+}
+```
 
 ### **Languages**
 
@@ -23,3 +38,13 @@
 * Polish (b1)
 * Ukrainian (native)
 * German (basic)
+
+## **Education**
+---
+* __Taras Shevchenko Luhansk National Uni. (Master degree)__ 
+   
+   International relations
+
+* __Wyzsza szkola logistyki (Master degree)__
+
+   Supply chain project manager
